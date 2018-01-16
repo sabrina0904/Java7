@@ -46,8 +46,10 @@ public static void main(String[] args){
      ulasan=("adalah berani tetapi tidak suka tunjukkan keberanian.");
     break;
     
+    
     }default :{
       
+    System.out.println("Maaf pilihan salah ");
     System.out.println("Maaf pilihan salah ");
     }
     }
